@@ -1,6 +1,5 @@
-It is a simple calculator app with GUI written in python3.
+It is a simple calculator app written in python3. Tkinter Module is used for GUI.
 
-Tkinter Module is used.
 Download and go to the directory where you downloaded file.
 Type *python3 calculator.py*.
 
